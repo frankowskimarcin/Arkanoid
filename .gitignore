@@ -3,5 +3,5 @@ doc
 include
 lib
 Arkanoid.vcxproj
-Akranoid.vcxproj.filters
+Arkanoid.vcxproj.filters
 Arkanoid.vcxproj.user
